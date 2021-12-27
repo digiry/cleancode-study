@@ -6,9 +6,9 @@ Clean Code 책 한달 읽기 강의에서 제공한 부동산 중개수수로 �
 
 ## Prerequisite
 
-Java: Openjdk 11
-Gradle: 7.0
-VSCode extension: Extension Pack for Java
+Java: Openjdk 11  
+Gradle: 7.0  
+VSCode extension: Extension Pack for Java  
 
 <br>
 
