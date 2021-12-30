@@ -1,7 +1,9 @@
 package com.phangji.houseutils.policy;
 
+import com.phangji.houseutils.constants.ActionType;
+
 public class BrokeragePolicyFactory {
-    public BrokeragePolicy of(ActionType actionType) {
+    public static BrokeragePolicy of(ActionType actionType) {
         switch (actionType) {
             case RENT:
                 return new RentBrokeragePolicy();
