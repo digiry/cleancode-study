@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch HouseUtilsApplication",
+            "request": "launch",
+            "mainClass": "com.phangji.houseutils.HouseUtilsApplication",
+            "projectName": "house-utils"
+        }
+    ]
+}
